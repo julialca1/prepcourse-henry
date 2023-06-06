@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositorio de prueba de prepcourse henry mod 2
+ prueba para crear un repositorio y clonarlo desde git hut a mi computador
